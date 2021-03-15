@@ -13,7 +13,7 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
  ## Clases y Ayudantías
 | Tipo | Número | Tema | Fecha | Grabación | Material |
 | :--: | :--: | :--: | :--: | :--: | :--: |
-| Clase | 00 | Introducción al curso | 10/08 | [Video]() | [Slides]()|
+| Clase | 00 | Introducción al curso | 15/03 | []() | []()|
 
      
 ## Equipo
@@ -30,7 +30,7 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 
 | Nombre                | Email       | Github |
 |:--------------------- |:-------------| :---------|
-| Trinidad Vargas | mtvargas1@uc.cl | Trinidad Vargas |
+| Trinidad Vargas | mtvargas1@uc.cl | TrinidadVargas |
 | Ignacio Zúñiga | inzuniga@uc.cl | inzuniga |
 | Rocío Hernández | rbhernandez@uc.cl | rbhernandez |
 | Lucas Valenzuela | lucas.valenzuela@uc.cl | lucas-valenzuela |
