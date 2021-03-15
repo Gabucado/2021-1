@@ -1,23 +1,20 @@
 # IIC2133 - Estructuras de Datos y Algoritmos
-## AÑO-SEMESTRE
+## 2021-1
 
 Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta página podrás encontrar la información administrativa del curso. En el repositorio podrás encontrar código ya preparado por tus ayudantes, junto con los eventuales enunciados de las tareas y las diapositivas de clases.
 
-Asegúrate de echar una mirada a la [Wiki](https://github.com/IIC2133-PUC/2020-1/wiki) del curso, donde estarán todas las guías de cómo prepararte para poder trabajar en este ramo.
-
-## Tabla de contenidos
+## Tabla de contenidos 
+ * [Clases y ayudantías](#clases-y-ayudantías)
  * [Equipo](#equipo)
      * [Profesores](#profesores)
      * [Ayudantes](#ayudantes)
- * [Acerca del curso](#acerca-del-curso) 
- * [Contenidos](#contenidos)
  * [Política de Integridad Académica](#política-de-integridad-académica)
 
-## Acerca del curso
+ ## Clases y Ayudantías
+| Tipo | Número | Tema | Fecha | Grabación | Material |
+| :--: | :--: | :--: | :--: | :--: | :--: |
+| Clase | 00 | Introducción al curso | 10/08 | [Video]() | [Slides]()|
 
-Este curso enseña a analizar problemas, descomponerlos y elaborar algoritmos que los resuelvan en un tiempo óptimo. Esto se logra mediante la organización de la información en estructuras de datos y el uso de algoritmos capaces de aprovechar dichas estructuras. En particular se enseñan problemas de optimización en grafos, métodos de ordenación, y estructuración de la información en diccionarios.
-
-El curso utiliza el lenguaje de programación C, ya que éste permite trabajar directa y limpiamente con los algoritmos aprendidos. Dado que este lenguaje trabaja en bajo nivel, se puede lograr escribir un programa que resuelva los problemas en tiempo óptimo no solo en la teoría, si no también en la práctica.
      
 ## Equipo
 
@@ -25,41 +22,25 @@ El curso utiliza el lenguaje de programación C, ya que éste permite trabajar d
 
 | Nombre               |  Sección         |  Email         |
 |:-------------------- |:--------------|:--------------|
-| TBD | TBD | TBD |
+| Yadran Eterovic | 1 | yadran@ing.puc.cl |
+| Cristóbal Gazali | 2 | cjgazali@uc.cl |
 
 
 ### Ayudantes
 
 | Nombre                | Email       | Github |
 |:--------------------- |:-------------| :---------|
-| TBD | TBD | TBD |
+| Trinidad Vargas | mtvargas1@uc.cl | Trinidad Vargas |
+| Ignacio Zúñiga | inzuniga@uc.cl | inzuniga |
+| Rocío Hernández | rbhernandez@uc.cl | rbhernandez |
+| Lucas Valenzuela | lucas.valenzuela@uc.cl | lucas-valenzuela |
+| Agustín Ríos | arios6@uc.cl | agustin-rios |
+| Carlos Paredes | cparedesr@uc.cl | CarloGauss33 |
+| Benjamín Lepe | balepe@uc.cl | BenjaLepe |
+| Manuel Muñoz | mimunoz11@uc.cl | mimunoz11 |
+| Tanya Garrido | tcgarrido@uc.cl | tcgarrido  |
+| Vicente Larraín | vlarrain2@uc.cl | vlarrain2 |
 
-## Contenidos
-
-A continuación se presentan los contenidos del curso, no necesariamente en el orden en que serán impartidos.
-
-* Estructuras elementales
- * Listas y colas LIFO y FIFO.
- * Heaps binarios.
-* Diccionarios
- * Tablas de hash
- * Árboles de búsqueda
-* Algoritmos
- * Ordenación
-      * Ingenua ( *O*(n<sup>2</sup>) )
-      * Inteligente ( *O*(n log(n)) )
-      * Especializada ( *O*(n) )
- * Optimización en grafos
-      * Orden Topológico
-      * Cobertura
-      * Búsqueda
-      * Flujo
- * Técnicas Algorítmicas
-      * Dividir y conquistar
-      * Algoritmos Codiciosos
-      * Programación Dinámica
-      * Backtracking
-* Strings
 
 ## Evaluación
 
@@ -67,16 +48,18 @@ El curso consta de una parte teórica, evaluada mediante evaluaciones escritas (
 
 ### Evaluaciones Escritas
 
-Habrá 3 interrogaciones y un examen, donde se evaluarán los aspectos más teóricos del contenido. Las interrogaciones se darán en horario de clases. Cada interrogación tendrá 3 preguntas, de las cuales 2 serán presenciales y una será una actividad para la casa. La nota de interrogaciones será el promedio de las mejores 7 de 9 preguntas, y se promediará con el examen para calcular la nota final de evaluaciones escritas.
+Habrá 3 interrogaciones, donde se evaluarán los aspectos más teóricos del contenido.
 
 | Evaluación | Fecha |
 |:----------|:----------|
-| TBD | TBD |
+| Interrogación 1 | 3 de mayo |
+| Interrogación 2 | 4 de junio |
+| Interrogación 3 | 14 de julio |
 
 
 ### Tareas
 
-Habrá 5 tareas de programación en C, donde deberán resolver un problema complejo y analizarlo en un informe escrito. Las fechas serán anunciadas durante el semestre.
+Habrá 4 tareas de programación en C, donde deberán resolver un problema complejo y analizarlo en un informe escrito. Las fechas serán anunciadas durante el semestre.
 
 La nota final del curso se calcula de la siguiente manera:
 
@@ -84,33 +67,20 @@ La nota final del curso se calcula de la siguiente manera:
 double nota_final()
 {
     /* La nota de cada tarea */
-    double T0,T1,T2,T3,T4;    
-    /* La nota de cada pregunta de interrogaciones*/
-    double P1,P2,P3,P4,P5,P6,P7,P8,P9;
-    
-    /* La nota del examen */
-    double Ex;
+    double T0,T1,T2,T3;    
+    /* La nota de cada interrogación*/
+    double I1,I2,I3;
 
-    /* Promedio de tareas */
-    double NT = (T0 + T1 + T2 + T3 + T4) / 5;
-    /* Promedio de las 10 mejores preguntas de interrogaciones */
-    double NI = top7(P1,P2,P3,P4,P5,P6,P7,P8,P9)/7;
+    /* Promedio de tareas ignorando la peor */
+    double NT = (T0 + T1 + T2 + T3) / 4;
+    /* Promedio de interrogaciones */
+    double NI = (I1 + I2 + I3) / 3;
     
-    /* Promedio de las evaluaciones escritas: el examen vale 1/2 o 1/3 según convenga */
-    double NE;
-    if(Ex >= NI)
-    {
-        NE = (Ex + NI) / 2;
-    }
-    else
-    {
-        NE = (Ex + 2NI) / 3;
-    }
+    /* Nota final */
+    double NF = (NT + NI) / 2;
     
-    double NF = (NT + NE) / 2;
-    
-    /* Es necesario aprobar las evaluaciones escritas y las tareas por separado para aprobar el curso */
-    if(NE < 3.7 || NT < 3.7)
+    /* Es necesario tener sobre 3.7 en las evaluaciones escritas y las tareas por separado para aprobar el curso */
+    if(NI < 3.7 || NT < 3.7)
     {
        return min(3.9, NF);
     }
