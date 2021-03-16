@@ -74,7 +74,7 @@ double nota_final()
     /* La nota de cada interrogación*/
     double I1,I2,I3;
 
-    /* Promedio de tareas ignorando la peor */
+    /* Promedio de tareas */
     double NT = (T0 + T1 + T2 + T3) / 4;
     /* Promedio de interrogaciones */
     double NI = (I1 + I2 + I3) / 3;
