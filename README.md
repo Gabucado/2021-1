@@ -13,7 +13,7 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
  ## Clases y Ayudantías
 | Tipo | Número | Tema | Fecha | Grabación | Material |
 | :--: | :--: | :--: | :--: | :--: | :--: |
-| Clase | 00 | Introducción al curso | 15/03 | []() | []()|
+| Clase | 00 | Introducción al curso | 15/03 | [Video](https://youtu.be/qv4tOsyU5gw) | [Slides](https://github.com/IIC2133-PUC/2021-1/blob/master/Clases/00.%20Introducción%20al%20curso.pdf)|
 
      
 ## Equipo
@@ -41,11 +41,13 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 | Tanya Garrido | tcgarrido@uc.cl | [@tcgarrido ](https://www.github.com/tcgarrido )|
 | Vicente Larraín | vlarrain2@uc.cl | [@vlarrain2](https://www.github.com/vlarrain2)|
 | Diego Cartagena | dlcartagena@uc.cl | [@dlcartagena](https://www.github.com/dlcartagena)|
+| Fernando De Diego | fadediego@uc.cl | [@fadediego](https://www.github.com/fadediego)|
+| Nicolás Mc Intyre | nmcintyre@uc.cl | [@nmcin](https://www.github.com/nmcin)|
 
 
 ## Evaluación
 
-El curso consta de una parte teórica, evaluada mediante evaluaciones escritas (interrogaciones y examen), y una parte práctica, evaluada mediante tareas de programación en C.
+El curso consta de una parte teórica, evaluada mediante evaluaciones escritas (interrogaciones), y una parte práctica, evaluada mediante tareas de programación en C.
 
 ### Evaluaciones Escritas
 
@@ -60,7 +62,7 @@ Habrá 3 interrogaciones, donde se evaluarán los aspectos más teóricos del co
 
 ### Tareas
 
-Habrá 4 tareas de programación en C, donde deberán resolver un problema complejo y analizarlo en un informe escrito. Las fechas serán anunciadas durante el semestre.
+Habrá 4 tareas de programación en C, donde deberán resolver un problema complejo y analizarlo en un informe escrito. 
 
 La nota final del curso se calcula de la siguiente manera:
 
