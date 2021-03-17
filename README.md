@@ -10,10 +10,16 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
      * [Ayudantes](#ayudantes)
  * [Política de Integridad Académica](#política-de-integridad-académica)
 
+
+
  ## Clases y Ayudantías
+
+ #### [Videos de C](https://github.com/DCCentral-de-Apuntes/intro-C)
+
 | Tipo | Número | Tema | Fecha | Grabación | Material |
 | :--: | :--: | :--: | :--: | :--: | :--: |
 | Clase | 00 | Introducción al curso | 15/03 | [Video](https://youtu.be/qv4tOsyU5gw) | [Slides](https://github.com/IIC2133-PUC/2021-1/blob/master/Clases/00.%20Introducción%20al%20curso.pdf)|
+|Taller | 01|  Intro a C | 17/03 |[Video](https://youtu.be/7kCqp5JBMs0)| [Slides](https://github.com/IIC2133-PUC/2021-1/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%200%20-%20Intro%20a%20C/Taller%20C.pdf)|
 
      
 ## Equipo
@@ -36,14 +42,16 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 | Lucas Valenzuela | lucas.valenzuela@uc.cl | [@lucas-valenzuela](https://www.github.com/lucas-valenzuela)|
 | Agustín Ríos | arios6@uc.cl | [@agustin-rios](https://www.github.com/agustin-rios)|
 | Carlos Paredes | cparedesr@uc.cl | [@CarloGauss33](https://www.github.com/CarloGauss33)|
-| Benjamín Lepe | balepe@uc.cl | [@BenjaLepe](https://www.github.com/BenjaLepe)|
 | Manuel Muñoz | mimunoz11@uc.cl | [@mimunoz11](https://www.github.com/mimunoz11)|
 | Tanya Garrido | tcgarrido@uc.cl | [@tcgarrido ](https://www.github.com/tcgarrido )|
 | Vicente Larraín | vlarrain2@uc.cl | [@vlarrain2](https://www.github.com/vlarrain2)|
 | Diego Cartagena | dlcartagena@uc.cl | [@dlcartagena](https://www.github.com/dlcartagena)|
 | Fernando De Diego | fadediego@uc.cl | [@fadediego](https://www.github.com/fadediego)|
 | Nicolás Mc Intyre | nmcintyre@uc.cl | [@nmcin](https://www.github.com/nmcin)|
-
+| Cristóbal González | cgonz@uc.cl | [@cristobalgon](https://www.github.com/cristobalgon)|
+| Cristian Alonso Carrasco | cristian.carrasco@uc.cl | [@Aloncarrasco](https://www.github.com/Aloncarrasco)|
+| Juan Carlos Echavarri | jcechavarri@uc.cl | [@jcechavarri](https://www.github.com/jcechavarri)|
+| María Jesús Retamales | mjretamales@uc.cl | [@mjretamales](https://www.github.com/mjretamales)|
 
 ## Evaluación
 
